@@ -19,6 +19,7 @@ dependencies = [
     "pandas>=2.2.0",
     "numpy>=1.26.0",
     "openai>=1.12.0",
+    "langgraph-cli[inmem]>=0.3.3",
 ]
 
 [tool.setuptools]
